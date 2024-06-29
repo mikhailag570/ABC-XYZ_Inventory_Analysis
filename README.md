@@ -1,6 +1,6 @@
 # ABC-XYZ_Inventory_Analysis
 
-Анализ продуккции по XYZ и ABC
+Анализ продукции по XYZ и ABC
 
 Идея взята с Kaggle
 
